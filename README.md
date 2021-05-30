@@ -15,16 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello,
-My name is **Vibha Singh Tomar**. I am an old lady, who loves to eat and sleep. but due to ***gareebi***
-
- - [ ] List item
-
- i have to work a lot.
- 
-
- - [x] sleep
- - [x]   eat 
- - [x]  dont die
-
  
